@@ -1,0 +1,6 @@
+typeof 3 // "number"
+typeof "abc" // "string"
+typeof {} // "object"
+typeof true // "boolean"
+typeof undefined // "undefined"
+typeof function () { } // "function"
